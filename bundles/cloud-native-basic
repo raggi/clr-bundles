@@ -15,13 +15,11 @@ cloud-native-setup
 cni
 cni-plugins
 containerd
-cri-containerd
 cri-o
 cri-tools
 ebtables
 firecracker
 helm
-ksonnet
 kubernetes
 runc
 socat
