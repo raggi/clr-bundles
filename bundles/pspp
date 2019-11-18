@@ -1,0 +1,16 @@
+# [TITLE]: pspp
+# [DESCRIPTION]: a program for statistical analysis of sampled data
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+include(libX11client)
+include(libglib)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+pspp
