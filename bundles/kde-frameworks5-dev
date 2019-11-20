@@ -180,6 +180,8 @@ include(devpkg-glu)
 glu-dev32
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -473,7 +475,9 @@ pcre-dev32
 include(devpkg-pcre2)
 perl
 perl-IPC-Run
+perl-Math-BigInt-GMP
 perl-Test-Simple
+perl-Test-Simple-perl
 perl-URI
 perl-URI-Encode
 perl-URI-Escape-XS

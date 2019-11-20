@@ -519,7 +519,7 @@ include(devpkg-pcre2)
 pcsc-lite
 pcsc-lite-dev
 perl
-perl-AnyEvent
+perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
 perl-BDB
@@ -609,6 +609,7 @@ perl-Test-Refcount
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
+perl-Test-Simple-perl
 perl-Test-Taint
 perl-Test-Warnings
 perl-Test2-Suite

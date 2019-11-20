@@ -240,7 +240,7 @@ include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
 perl-IPC-Run
-perl-Test-Simple
+perl-Test-Simple-perl
 perl-XML-Parser
 php-dev
 pigz

@@ -945,7 +945,7 @@ pcsc-lite-dev
 pecan
 pep8
 perl
-perl-AnyEvent
+perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
 perl-BDB
@@ -1040,7 +1040,7 @@ perl-Sub-Info
 perl-Sub-Install
 perl-Sub-Quote
 perl-Sub-Uplevel
-perl-Term-Table
+perl-Term-Table-perl
 perl-Test-Deep
 perl-Test-Exception
 perl-Test-Fatal
@@ -1054,6 +1054,7 @@ perl-Test-Refcount
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
+perl-Test-Simple-perl
 perl-Test-Taint
 perl-Test-Warnings
 perl-Test2-Suite

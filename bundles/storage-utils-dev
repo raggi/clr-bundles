@@ -39,7 +39,10 @@ buildreq-kde
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
+include(devpkg-cairo)
+cairo-dev32
 certifi
 cffi
 check-dev
@@ -82,6 +85,11 @@ file-dev
 include(findutils)
 include(flex)
 flex-dev
+fontconfig-data
+include(devpkg-fontconfig)
+fontconfig-dev32
+include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fuse)
 gawk
 gcc
@@ -120,8 +128,12 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 gnupg
 include(devpkg-gnutls)
+gobject-introspection
+include(devpkg-gobject-introspection)
 gperf
 gpgme-dev
+include(devpkg-graphite)
+graphite-dev32
 include(graphviz)
 grep
 groff
@@ -130,6 +142,8 @@ gtk-doc
 include(devpkg-gtk-doc)
 guile
 include(gzip)
+include(devpkg-harfbuzz)
+harfbuzz-dev32
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
@@ -141,6 +155,7 @@ iptables-dev32
 iso8601
 include(devpkg-jansson)
 include(devpkg-json-c)
+json-c-dev32
 include(kbd)
 kdoctools-dev
 keyutils-dev
@@ -152,6 +167,7 @@ ldb-dev
 ldb-extras
 include(devpkg-libX11)
 libX11-dev32
+include(devpkg-libXft)
 libabigail
 libaio-dev
 include(devpkg-libarchive)
@@ -178,6 +194,7 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
+include(devpkg-libjpeg-turbo)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
@@ -188,6 +205,9 @@ libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
+include(devpkg-libpng)
+libpng-dev32
+include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -225,6 +245,7 @@ mpc-dev
 mpfr-dev
 msmtp
 include(devpkg-multipath-tools)
+include(nasm)
 include(devpkg-ncurses)
 ncurses-dev32
 include(devpkg-ndctl)
@@ -255,7 +276,7 @@ include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
 perl
-perl-AnyEvent
+perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
 perl-BDB
@@ -345,6 +366,7 @@ perl-Test-Refcount
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
+perl-Test-Simple-perl
 perl-Test-Taint
 perl-Test-Warnings
 perl-Test2-Suite
@@ -418,12 +440,20 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
+include(devpkg-util-macros)
+util-macros-dev32
 include(valgrind)
 valgrind-dev
 include(which)
 xauth
+xcb-proto
+include(devpkg-xcb-proto)
 xdg-utils
 xmlto
+include(devpkg-xorgproto)
+xorgproto-dev32
+include(devpkg-xtrans)
+xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

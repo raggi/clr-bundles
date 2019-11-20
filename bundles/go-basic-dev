@@ -87,6 +87,8 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
+gmp-gmpxx
+gmp-lib-hsw
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
@@ -185,7 +187,9 @@ include(devpkg-pcre2)
 perl-Error
 perl-Math-BigInt-GMP
 perl-Test-Simple
+perl-Test-Simple-perl
 perl-XML-Parser
+perl-perl
 pigz
 pkg-config
 pkg-config-dev

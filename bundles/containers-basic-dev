@@ -102,6 +102,8 @@ glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -231,7 +233,9 @@ pcsc-lite-dev
 perl-Error
 perl-Math-BigInt-GMP
 perl-Test-Simple
+perl-Test-Simple-perl
 perl-XML-Parser
+perl-perl
 pigz
 pinentry
 pip
