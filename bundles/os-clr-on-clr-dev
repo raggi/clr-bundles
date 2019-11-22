@@ -945,6 +945,7 @@ pcsc-lite-dev
 pecan
 pep8
 perl
+perl-Algorithm-Diff
 perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
@@ -1077,6 +1078,7 @@ perl-Test-Taint
 perl-Test-Warn
 perl-Test-Warnings
 perl-Test2-Suite
+perl-Text-Diff
 perl-TimeDate
 perl-Try-Tiny
 perl-URI

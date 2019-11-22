@@ -18,6 +18,7 @@ include(Sphinx)
 include(devpkg-acl)
 acl-dev32
 include(devpkg-apr)
+include(devpkg-apr-util)
 asciidoc
 include(devpkg-attr)
 attr-dev32
@@ -146,6 +147,8 @@ include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
 hostname
+httpd-dev
+httpd-extras
 include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)
@@ -259,6 +262,7 @@ nghttp2-dev32
 nss-altfiles
 include(devpkg-nss)
 openconnect-dev
+openjade-dev
 openldap-dev
 opensm-dev
 include(openssl)
@@ -340,6 +344,7 @@ perl-IO-Interactive-Tiny
 perl-IO-Pipely
 perl-IO-Socket-SSL
 perl-IO-Tty
+perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
@@ -416,6 +421,7 @@ pluggy-python
 ply
 polkit-dev
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 pycparser

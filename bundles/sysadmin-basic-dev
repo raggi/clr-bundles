@@ -17,6 +17,7 @@ include(devpkg-acl)
 acl-dev32
 apache-maven
 include(devpkg-apr)
+include(devpkg-apr-util)
 asciidoc
 include(aspell)
 include(devpkg-attr)
@@ -146,6 +147,8 @@ include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
 hostname
+httpd-dev
+httpd-extras
 include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)
@@ -247,6 +250,7 @@ nettle-lib32
 nss-altfiles
 include(devpkg-numactl)
 onig-dev
+openjade-dev
 openldap-dev
 openssh
 include(openssl)
@@ -327,6 +331,7 @@ perl-IO-Pipely
 perl-IO-Socket-SSL
 perl-IO-Tty
 perl-IO-stringy
+perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
@@ -400,6 +405,7 @@ pkg-config
 pkg-config-dev
 polkit-dev
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 protobuf-dev

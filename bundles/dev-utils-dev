@@ -26,6 +26,8 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
 appdirs
+include(devpkg-apr)
+include(devpkg-apr-util)
 asciidoc
 asn1crypto-python
 astroid
@@ -181,6 +183,8 @@ include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
 hostname
+httpd-dev
+httpd-extras
 hypothesis-python
 include(devpkg-icu4c)
 icu4c-dev32
@@ -332,6 +336,7 @@ include(devpkg-numactl)
 onig-dev
 include(openblas)
 opencl-headers-dev
+openjade-dev
 openjdk
 include(devpkg-openmpi)
 include(openssl)
@@ -414,6 +419,7 @@ perl-IO-Interactive-Tiny
 perl-IO-Pipely
 perl-IO-Socket-SSL
 perl-IO-Tty
+perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes

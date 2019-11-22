@@ -31,6 +31,8 @@ acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appstream-glib
+include(devpkg-apr)
+include(devpkg-apr-util)
 asciidoc
 aspell-dev
 aspell-en
@@ -250,6 +252,8 @@ include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
 hostname
+httpd-dev
+httpd-extras
 hunspell-dev
 ibus
 ibus-dev
@@ -491,6 +495,7 @@ nss-altfiles
 include(devpkg-nss)
 octave-dev
 openconnect-dev
+openjade-dev
 openldap-dev
 openssh
 include(openssl)
@@ -583,6 +588,7 @@ perl-IO-Interactive-Tiny
 perl-IO-Pipely
 perl-IO-Socket-SSL
 perl-IO-Tty
+perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
@@ -664,6 +670,7 @@ pluggy-python
 ply
 polkit-dev
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 protobuf-dev

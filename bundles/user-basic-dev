@@ -49,6 +49,7 @@ apache-ant
 apache-maven
 appdirs
 include(devpkg-apr)
+include(devpkg-apr-util)
 asciidoc
 asn1crypto-python
 include(aspell)
@@ -275,6 +276,8 @@ include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
 hostname
+httpd-dev
+httpd-extras
 hypothesis-python
 ibus
 ibus-dev
@@ -505,6 +508,7 @@ open-iscsi
 open-isns-dev
 include(openblas)
 opencl-headers-dev
+openjade-dev
 openjdk
 openjdk11
 openjdk11-dev
@@ -602,6 +606,7 @@ perl-IO-Pipely
 perl-IO-Socket-SSL
 perl-IO-Tty
 perl-IO-stringy
+perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes

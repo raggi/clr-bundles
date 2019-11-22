@@ -52,6 +52,8 @@ acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
+include(devpkg-apr)
+include(devpkg-apr-util)
 asciidoc
 asn1crypto-python
 astroid
@@ -257,6 +259,8 @@ include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
 hostname
+httpd-dev
+httpd-extras
 hypothesis-python
 ibus
 ibus-dev
@@ -499,6 +503,7 @@ openal-soft-dev32
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
+openjade-dev
 openldap-dev
 include(openssl)
 include(devpkg-openssl)
@@ -587,6 +592,7 @@ perl-IO-Interactive-Tiny
 perl-IO-Pipely
 perl-IO-Socket-SSL
 perl-IO-Tty
+perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
@@ -666,6 +672,7 @@ pluggy
 pluggy-python
 polkit-dev
 include(devpkg-popt)
+include(devpkg-postgresql)
 ppp
 ppp-dev
 pretend

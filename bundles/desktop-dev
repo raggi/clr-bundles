@@ -55,6 +55,7 @@ appdirs
 appstream-glib
 include(devpkg-appstream-glib)
 include(devpkg-apr)
+include(devpkg-apr-util)
 asciidoc
 asn1crypto-python
 include(aspell)
@@ -354,6 +355,8 @@ help2man
 hicolor-icon-theme
 hostname
 html5lib
+httpd-dev
+httpd-extras
 hunspell-dev
 hypothesis-python
 ibus

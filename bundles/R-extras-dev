@@ -660,6 +660,8 @@ alsa-lib-dev32
 apache-ant
 apache-maven
 appstream-glib
+include(devpkg-apr)
+include(devpkg-apr-util)
 armadillo
 asciidoc
 assimp-dev
@@ -822,6 +824,7 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
+include(gnuplot)
 include(devpkg-gnutls)
 gobject-introspection
 include(devpkg-gobject-introspection)
@@ -853,6 +856,8 @@ harfbuzz-dev32
 hdf5-dev
 help2man
 hostname
+httpd-dev
+httpd-extras
 include(devpkg-hwloc)
 ibus
 ibus-dev
@@ -880,6 +885,7 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
+leptonica-dev
 include(less)
 include(devpkg-libX11)
 libX11-dev32
@@ -1316,6 +1322,7 @@ tar
 tcl
 tcl-dev
 tcl-staticdev
+tesseract-dev
 testrepository
 testresources
 testscenarios
