@@ -1,0 +1,9 @@
+# [TITLE]: libreoffice-extras-lang-tr
+# [DESCRIPTION]: Turkish language support for LibreOffice.
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [TAGS]: Productivity
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libreoffice)
+libreoffice-extras-lang-tr
