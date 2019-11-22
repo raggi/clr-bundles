@@ -142,7 +142,7 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
-docopt-python
+docopt
 include(docutils)
 include(doxygen)
 e2fsprogs
@@ -563,7 +563,7 @@ perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
 perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
-perl-File-HomeDir
+perl-File-HomeDir-perl
 perl-File-Listing
 perl-File-ShareDir
 perl-File-ShareDir-Install
@@ -798,7 +798,6 @@ include(devpkg-xz)
 xz-dev32
 yaml-dev
 yarg
-yarg-python
 include(yasm)
 zipp
 include(devpkg-zlib)

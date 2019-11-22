@@ -98,7 +98,7 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-docopt-python
+docopt
 include(docutils)
 include(doxygen)
 dwarves-dev
@@ -390,7 +390,7 @@ perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
 perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
-perl-File-HomeDir
+perl-File-HomeDir-perl
 perl-File-Listing
 perl-File-ShareDir
 perl-File-ShareDir-Install
@@ -599,7 +599,6 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 yarg
-yarg-python
 include(yasm)
 zipp
 include(devpkg-zlib)

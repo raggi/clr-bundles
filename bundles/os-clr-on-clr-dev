@@ -211,7 +211,7 @@ distro
 dnsmasq
 include(docbook-utils)
 docbook-xml
-docopt-python
+docopt
 include(docutils)
 docutils-python
 include(dosfstools)
@@ -988,7 +988,7 @@ perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
 perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
-perl-File-HomeDir
+perl-File-HomeDir-perl
 perl-File-Listing
 perl-File-ShareDir
 perl-File-ShareDir-Install
@@ -1371,7 +1371,6 @@ yajl-dev
 yajl-lib
 yaml-dev
 yarg
-yarg-python
 include(yasm)
 include(zip)
 zipp
