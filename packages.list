@@ -400,3 +400,4 @@ ParaView # VTK-based Data Analysis and Visualization Application
 tesseract # An OCR Engine that was developed at HP Labs between 1985 and 1995... and now at Google.
 gramps # Gramps is a genealogy program for Windows, Linux, Apple MacOS and other UNIX-like systems. It helps you track your family tree by allowing you to store, edit, and research genealogical data.
 pspp # a program for statistical analysis of sampled data
+phoronix-test-suite # Run only the phoronix-test-suite 

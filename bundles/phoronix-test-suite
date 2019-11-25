@@ -1,0 +1,15 @@
+# [TITLE]: phoronix-test-suite
+# [DESCRIPTION]: Run only the phoronix-test-suite
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(php-basic)
+include(unzip)
+# end of custom additions
+
+# main package
+phoronix-test-suite
