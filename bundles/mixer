@@ -26,7 +26,7 @@ include(cpio)
 rpm
 bsdiff
 
-#TODO: Update when ister is replaced by clr-installer
-include(os-installer)
+# Image Creation
+include(clr-installer)
 
 mixer-tools
