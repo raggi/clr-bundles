@@ -63,10 +63,8 @@ buildreq-meson
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)
-bzip2-dev32
 ca-certs
 include(devpkg-cairo)
-cairo-dev32
 certifi
 cffi
 cffi-python
@@ -120,11 +118,8 @@ filelock
 include(findutils)
 include(flex)
 flex-dev
-fontconfig-data
 include(devpkg-fontconfig)
-fontconfig-dev32
 include(devpkg-freetype)
-freetype-dev32
 gawk
 gc-dev
 gcc
@@ -135,7 +130,6 @@ gcc-libstdc++32
 gcc7-dev
 gcc8-dev
 gdal-dev
-include(gdb)
 gdb-dev
 gdbm-dev
 gettext
@@ -163,12 +157,9 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(devpkg-gnutls)
 go
-gobject-introspection
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
-include(devpkg-graphite)
-graphite-dev32
 include(graphviz)
 grep
 groff
@@ -179,8 +170,6 @@ include(devpkg-gtk-doc)
 guile
 include(devpkg-guile)
 include(gzip)
-include(devpkg-harfbuzz)
-harfbuzz-dev32
 help2man
 hostname
 httpd-dev
@@ -202,7 +191,6 @@ iptables-dev32
 iso8601
 isort
 include(devpkg-json-c)
-json-c-dev32
 jsoncpp-dev
 include(kbd)
 keyutils-dev
@@ -268,7 +256,6 @@ include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpipeline)
 include(devpkg-libpng)
-libpng-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
@@ -315,7 +302,6 @@ more-itertools
 mpc-dev
 mpfr-dev
 msmtp
-include(nasm)
 nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
@@ -457,8 +443,10 @@ perl-Sub-Identify
 perl-Sub-Info
 perl-Sub-Install
 perl-Sub-Quote
+perl-Sub-Uplevel
 perl-Test-Base
 perl-Test-Deep
+perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File-ShareDir-Dist
 perl-Test-Identity
@@ -594,13 +582,7 @@ include(wget)
 include(which)
 wrapt
 xauth
-xcb-proto
-include(devpkg-xcb-proto)
 xmlto
-include(devpkg-xorgproto)
-xorgproto-dev32
-include(devpkg-xtrans)
-xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

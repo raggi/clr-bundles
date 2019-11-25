@@ -44,6 +44,7 @@ MarkupSafe-python3
 ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
+OpenSP-dev
 Pillow
 PyJWT
 PyQt5

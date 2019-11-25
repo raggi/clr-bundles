@@ -630,8 +630,10 @@ perl-Sub-Identify
 perl-Sub-Info
 perl-Sub-Install
 perl-Sub-Quote
+perl-Sub-Uplevel
 perl-Test-Base
 perl-Test-Deep
+perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File-ShareDir-Dist
 perl-Test-Identity
