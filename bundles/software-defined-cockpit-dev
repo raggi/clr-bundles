@@ -99,6 +99,7 @@ dbus-dev32
 include(devpkg-dbus-glib)
 dejagnu
 desktop-file-utils
+dialog
 include(diffutils)
 dlt-daemon-dev
 include(docbook-utils)

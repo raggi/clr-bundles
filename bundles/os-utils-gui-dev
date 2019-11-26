@@ -116,6 +116,7 @@ include(devpkg-dbus-glib)
 dconf-dev
 dejagnu
 desktop-file-utils
+dialog
 include(diffutils)
 include(docbook-utils)
 docbook-xml
