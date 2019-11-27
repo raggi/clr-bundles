@@ -15,12 +15,16 @@ perl-Algorithm-Diff-XS
 perl-Algorithm-Merge
 perl-Algorithm-Munkres
 perl-Alien-Build
+perl-Alien-Libxml2
 perl-Alien-m4
 perl-AnyEvent
 perl-AnyEvent-AIO
+perl-AnyEvent-BDB
 perl-AnyEvent-CacheDNS
 perl-Apache-Htpasswd
+perl-Apache-LogFormat-Compiler
 perl-Apache-Session
+perl-App-Nopaste
 perl-App-cpanminus
 perl-App-perlbrew
 perl-AppConfig
@@ -55,6 +59,7 @@ perl-CBOR-XS
 perl-CDDB-File
 perl-CGI
 perl-CGI-Compile
+perl-CGI-Emulate-PSGI
 perl-CGI-Simple
 perl-CPAN-Changes
 perl-CPAN-DistnameInfo
@@ -67,6 +72,7 @@ perl-Cache-Simple-TimedExpiry
 perl-Calendar-Simple
 perl-Canary-Stability
 perl-Capture-Tiny
+perl-Carp-Always
 perl-Carp-Assert
 perl-Carp-Assert-More
 perl-Carp-Clan
@@ -90,6 +96,7 @@ perl-Class-Measure
 perl-Class-Method-Modifiers
 perl-Class-MethodMaker
 perl-Class-Mix
+perl-Class-Refresh
 perl-Class-ReturnValue
 perl-Class-Singleton
 perl-Class-Std
@@ -145,6 +152,7 @@ perl-DBIx-Connector
 perl-DBIx-ContextualFetch
 perl-DBIx-DBSchema
 perl-DBIx-Simple
+perl-DB_File
 perl-Data-Alias
 perl-Data-Compare
 perl-Data-Denter
@@ -152,6 +160,7 @@ perl-Data-Dump
 perl-Data-Dumper-Concise
 perl-Data-Dumper-Simple
 perl-Data-Float
+perl-Data-Flow
 perl-Data-Integer
 perl-Data-Munge
 perl-Data-OptList
@@ -194,6 +203,7 @@ perl-Devel-GlobalDestruction
 perl-Devel-Hide
 perl-Devel-LexAlias
 perl-Devel-OverloadInfo
+perl-Devel-OverrideGlobalRequire
 perl-Devel-PatchPerl
 perl-Devel-Refactor
 perl-Devel-Size
@@ -283,6 +293,7 @@ perl-Future
 perl-Future-IO-ImplBase
 perl-GD-Barcode
 perl-GIS-Distance
+perl-GSSAPI
 perl-Geo-Distance
 perl-Geo-IP
 perl-Geo-IPfree
@@ -294,6 +305,7 @@ perl-Graph
 perl-Guard
 perl-HTML-Clean
 perl-HTML-Encoding
+perl-HTML-Form
 perl-HTML-HTML5-Entities
 perl-HTML-Lint
 perl-HTML-Parser
@@ -302,6 +314,7 @@ perl-HTML-StripScripts
 perl-HTML-TableExtract
 perl-HTML-Tagset
 perl-HTML-Tiny
+perl-HTML-TreeBuilder
 perl-HTTP-Body
 perl-HTTP-CookieJar
 perl-HTTP-Cookies
@@ -314,10 +327,12 @@ perl-HTTP-MultiPartParser
 perl-HTTP-Negotiate
 perl-HTTP-Parser-XS
 perl-HTTP-Request-AsCGI
+perl-HTTP-Server-Simple
 perl-Hash-Flatten
 perl-Hash-Merge
 perl-Hash-MoreUtils
 perl-Hash-MultiValue
+perl-Hook-LexWrap
 perl-I18N-Charset
 perl-IO-AIO
 perl-IO-All
@@ -371,6 +386,7 @@ perl-Library-CallNumber-LC
 perl-Lingua-EN-Inflect
 perl-Lingua-EN-Inflect-Number
 perl-Lingua-Translit
+perl-Linux-Pid
 perl-List-AllUtils
 perl-List-Compare
 perl-List-MoreUtils
@@ -395,11 +411,14 @@ perl-MIME-Base32
 perl-MIME-Base64
 perl-MIME-Base64-URLSafe
 perl-MIME-Charset
+perl-MIME-Lite
 perl-MIME-Types
 perl-MLDBM
 perl-MRO-Compat
 perl-Mail-Mailer
 perl-Mail-POP3Client
+perl-Mail-Sender
+perl-Mail-Sendmail
 perl-Math-Base-Convert
 perl-Math-Base36
 perl-Math-BigInt-GMP
@@ -428,6 +447,7 @@ perl-Module-Implementation
 perl-Module-Install
 perl-Module-List
 perl-Module-Pluggable
+perl-Module-Refresh
 perl-Module-Runtime
 perl-Module-Runtime-Conflicts
 perl-Module-ScanDeps
@@ -451,6 +471,7 @@ perl-MooseX-Types-JSON
 perl-MooseX-Types-LoadableClass
 perl-MooseX-Types-Path-Class
 perl-Mozilla-CA
+perl-Net-AMQP
 perl-Net-Bluetooth
 perl-Net-CIDR-Lite
 perl-Net-DBus
@@ -491,6 +512,7 @@ perl-POD2-Base
 perl-POE
 perl-POE-Test-Loops
 perl-POSIX-strftime-Compiler
+perl-PPI
 perl-Package-Constants
 perl-Package-DeprecationManager
 perl-Package-Generator
@@ -521,6 +543,7 @@ perl-PerlIO-gzip
 perl-PerlIO-utf8_strict
 perl-PerlIO-via-Timeout
 perl-PlRPC
+perl-Plack
 perl-Pod-Constants
 perl-Pod-Coverage
 perl-Pod-LaTeX
@@ -529,6 +552,7 @@ perl-Pod-Plainer
 perl-Pod-Spell
 perl-Pod-Strip
 perl-PostScript-File
+perl-Proc-InvokeEditor
 perl-Proc-Wait3
 perl-Protocol-OSC
 perl-Quota
@@ -599,6 +623,7 @@ perl-System-Command
 perl-TAP-Formatter-HTML
 perl-TAP-Harness-Archive
 perl-Taint-Util
+perl-Task-Weaken
 perl-Template-Toolkit
 perl-Term-ProgressBar
 perl-Term-ReadKey
@@ -634,6 +659,7 @@ perl-Test-Most
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Number-Delta
+perl-Test-Object
 perl-Test-Output
 perl-Test-Pod
 perl-Test-Pod-Coverage
@@ -644,6 +670,7 @@ perl-Test-RequiresInternet
 perl-Test-SharedFork
 perl-Test-Simple
 perl-Test-Strict
+perl-Test-SubCalls
 perl-Test-Synopsis
 perl-Test-TCP
 perl-Test-Taint
@@ -666,6 +693,7 @@ perl-Text-Diff
 perl-Text-FindIndent
 perl-Text-Format
 perl-Text-Glob
+perl-Text-Haml
 perl-Text-Levenshtein
 perl-Text-Levenshtein-Damerau
 perl-Text-Markdown
@@ -708,10 +736,12 @@ perl-Unicode-Map
 perl-Variable-Magic
 perl-WWW-Form-UrlEncoded
 perl-WWW-Form-UrlEncoded-XS
+perl-WWW-Mechanize
 perl-WWW-RobotRules
 perl-Want
 perl-X11-Protocol
 perl-XML-Atom
+perl-XML-DOM
 perl-XML-Dumper
 perl-XML-Feed
 perl-XML-Filter-BufferText
@@ -723,6 +753,7 @@ perl-XML-Parser
 perl-XML-Parser-Lite
 perl-XML-RSS
 perl-XML-RSS-LibXML
+perl-XML-RegExp
 perl-XML-SAX
 perl-XML-SAX-Base
 perl-XML-SAX-Expat
@@ -734,6 +765,7 @@ perl-XML-Twig
 perl-XML-Writer
 perl-XML-XPath
 perl-XML-XPathEngine
+perl-XString
 perl-YAML
 perl-YAML-LibYAML
 perl-YAML-Syck
@@ -752,6 +784,7 @@ perl-inc-latest
 perl-indirect
 perl-latest
 perl-libwww-perl
+perl-libxml-perl
 perl-local-lib
 perl-multidimensional
 perl-namespace-autoclean
