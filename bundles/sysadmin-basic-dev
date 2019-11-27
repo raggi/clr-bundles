@@ -49,7 +49,6 @@ buildreq-qmake
 bzip2
 include(devpkg-bzip2)
 ca-certs
-certifi
 check
 check-dev
 check-dev32
@@ -112,7 +111,6 @@ glibc-dev
 glibc-dev32
 glibc-libc32
 include(glibc-locale)
-glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
@@ -280,17 +278,14 @@ perl-Eval-Closure
 perl-Exception-Class
 perl-Exporter-Tiny
 perl-ExtUtils-Config
-perl-ExtUtils-Depends
 perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
-perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
 perl-File-HomeDir-perl
 perl-File-Listing
 perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Which
-perl-Future
 perl-Getopt-Long-Descriptive
 perl-Guard
 perl-HTML-Form-perl
@@ -306,9 +301,7 @@ perl-HTTP-Server-Simple-perl
 perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
-perl-IO-Pipely
 perl-IO-Socket-SSL
-perl-IO-Tty
 perl-IO-stringy
 perl-IPC-Run
 perl-Importer
@@ -328,7 +321,6 @@ perl-Mozilla-CA
 perl-Net-Daemon
 perl-Net-HTTP
 perl-Net-SSLeay-perl
-perl-POE-Test-Loops
 perl-Package-Stash
 perl-PadWalker
 perl-Params-Util
@@ -339,9 +331,8 @@ perl-Path-Tiny
 perl-PerlIO-utf8_strict
 perl-Role-Tiny
 perl-Sort-Naturally
-perl-Specio
+perl-Specio-perl
 perl-Spiffy
-perl-Struct-Dumb
 perl-Sub-Exporter
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
@@ -354,12 +345,10 @@ perl-Test-Deep
 perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File-ShareDir-Dist
-perl-Test-Identity
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
 perl-Test-Pod
-perl-Test-Refcount
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
@@ -375,6 +364,7 @@ perl-Variable-Magic
 perl-WWW-Mechanize-perl
 perl-WWW-RobotRules
 perl-XML-Parser
+perl-XString-perl
 perl-common-sense
 perl-libwww-perl-perl
 perl-namespace-autoclean

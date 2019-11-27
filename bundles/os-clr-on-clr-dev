@@ -182,7 +182,6 @@ cppunit-dev
 cracklib-dev
 include(cryptography)
 cryptography_vectors
-cryptsetup
 include(devpkg-cryptsetup)
 cscope
 cssselect
@@ -401,6 +400,7 @@ intltool-dev
 ipaddress
 ipaddress-python
 include(iproute2)
+ipset
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
@@ -988,10 +988,8 @@ perl-Eval-Closure
 perl-Exception-Class
 perl-Exporter-Tiny
 perl-ExtUtils-Config
-perl-ExtUtils-Depends
 perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
-perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
 perl-File-HomeDir-perl
 perl-File-Listing
@@ -999,7 +997,6 @@ perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Slurp
 perl-File-Which
-perl-Future
 perl-Getopt-Long-Descriptive
 perl-Guard
 perl-HTML-Form-perl
@@ -1015,9 +1012,7 @@ perl-HTTP-Server-Simple-perl
 perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
-perl-IO-Pipely
 perl-IO-Socket-SSL
-perl-IO-Tty
 perl-IO-stringy
 perl-IPC-Run
 perl-IPC-Run3
@@ -1039,7 +1034,6 @@ perl-Mozilla-CA
 perl-Net-Daemon
 perl-Net-HTTP
 perl-Net-SSLeay-perl
-perl-POE-Test-Loops
 perl-Package-Stash
 perl-PadWalker
 perl-Params-Util
@@ -1051,9 +1045,8 @@ perl-PerlIO-utf8_strict
 perl-Role-Tiny
 perl-Scope-Guard
 perl-Sort-Naturally
-perl-Specio
+perl-Specio-perl
 perl-Spiffy
-perl-Struct-Dumb
 perl-Sub-Exporter
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
@@ -1068,7 +1061,6 @@ perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File
 perl-Test-File-ShareDir-Dist
-perl-Test-Identity
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
@@ -1092,6 +1084,7 @@ perl-Variable-Magic
 perl-WWW-Mechanize-perl
 perl-WWW-RobotRules
 perl-XML-Parser
+perl-XString-perl
 perl-common-sense
 perl-libwww-perl-perl
 perl-namespace-autoclean
@@ -1149,7 +1142,6 @@ pycairo-dev
 pycodestyle
 pycparser
 pycparser-python
-pycurl
 pyflakes
 include(pygobject)
 pylint

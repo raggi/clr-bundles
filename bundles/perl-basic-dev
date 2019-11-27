@@ -32,7 +32,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils3
-buildreq-gnome
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
@@ -49,14 +48,12 @@ db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
 include(doxygen)
 e2fsprogs
 include(devpkg-elfutils)
-elfutils-dev32
 include(devpkg-expat)
 expect
 include(findutils)
@@ -83,7 +80,6 @@ glibc-bin
 glibc-dev32
 glibc-libc32
 include(glibc-locale)
-glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
@@ -125,7 +121,6 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
-include(devpkg-libevent)
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
@@ -161,7 +156,6 @@ include(devpkg-libunwind)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxml2)
-libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
@@ -188,13 +182,10 @@ openjade-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
-openssl-lib32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 include(patch)
-include(devpkg-pcre)
-pcre-dev32
 include(devpkg-pcre2)
 perl-AnyEvent-perl
 perl-App-cpanminus
@@ -237,10 +228,8 @@ perl-Eval-Closure
 perl-Exception-Class
 perl-Exporter-Tiny
 perl-ExtUtils-Config
-perl-ExtUtils-Depends
 perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
-perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
 perl-File-HomeDir-perl
 perl-File-Listing
@@ -248,7 +237,6 @@ perl-File-Listing-dev
 perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Which
-perl-Future
 perl-Getopt-Long-Descriptive
 perl-Guard
 perl-HTML-Form-perl
@@ -271,9 +259,7 @@ perl-IO-AIO
 perl-IO-HTML
 perl-IO-HTML-dev
 perl-IO-Interactive-Tiny
-perl-IO-Pipely
 perl-IO-Socket-SSL
-perl-IO-Tty
 perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
@@ -294,7 +280,6 @@ perl-Mozilla-CA
 perl-Net-Daemon
 perl-Net-HTTP
 perl-Net-SSLeay-perl
-perl-POE-Test-Loops
 perl-Package-Stash
 perl-PadWalker
 perl-Params-Util
@@ -306,9 +291,8 @@ perl-Path-Tiny
 perl-PerlIO-utf8_strict
 perl-Role-Tiny
 perl-Sort-Naturally
-perl-Specio
+perl-Specio-perl
 perl-Spiffy
-perl-Struct-Dumb
 perl-Sub-Exporter
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
@@ -321,12 +305,10 @@ perl-Test-Deep
 perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File-ShareDir-Dist
-perl-Test-Identity
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
 perl-Test-Pod
-perl-Test-Refcount
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
@@ -346,6 +328,7 @@ perl-WWW-Mechanize-perl
 perl-WWW-RobotRules
 perl-XML-NamespaceSupport-dev
 perl-XML-Parser-dev
+perl-XString-perl
 perl-common-sense
 perl-dev
 perl-libwww-perl-dev
@@ -370,7 +353,6 @@ readline-dev32
 ruby
 sed
 shadow
-shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
@@ -385,7 +367,6 @@ tcl-dev
 include(texinfo)
 thin-provisioning-tools
 tk-dev
-include(tzdata)
 include(unzip)
 util-linux
 util-linux-bin
