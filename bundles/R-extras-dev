@@ -660,8 +660,6 @@ alsa-lib-dev32
 apache-ant
 apache-maven
 appstream-glib
-include(devpkg-apr)
-include(devpkg-apr-util)
 armadillo
 asciidoc
 assimp-dev
@@ -729,7 +727,6 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 db
-db-dev
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -856,8 +853,6 @@ harfbuzz-dev32
 hdf5-dev
 help2man
 hostname
-httpd-dev
-httpd-extras
 include(devpkg-hwloc)
 ibus
 ibus-dev
@@ -885,7 +880,7 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
-leptonica-dev
+include(devpkg-leptonica)
 include(less)
 include(devpkg-libX11)
 libX11-dev32
@@ -1105,14 +1100,11 @@ include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
 perl
-perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
-perl-BDB
 perl-Business-ISBN-Data
 perl-CGI
 perl-CPAN-Meta-Check
-perl-Canary-Stability
 perl-Carp-Assert
 perl-Class-Data-Inheritable
 perl-Class-Inspector
@@ -1148,7 +1140,6 @@ perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Which
 perl-Getopt-Long-Descriptive
-perl-Guard
 perl-HTML-Form-perl
 perl-HTML-Parser
 perl-HTML-Tagset
@@ -1159,7 +1150,6 @@ perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-HTTP-Server-Simple-perl
-perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
@@ -1225,7 +1215,6 @@ perl-WWW-Mechanize-perl
 perl-WWW-RobotRules
 perl-XML-Parser
 perl-XString-perl
-perl-common-sense
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
@@ -1316,7 +1305,7 @@ tar
 tcl
 tcl-dev
 tcl-staticdev
-tesseract-dev
+include(devpkg-tesseract)
 testrepository
 testresources
 testscenarios

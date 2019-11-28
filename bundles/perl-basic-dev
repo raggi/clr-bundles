@@ -14,8 +14,6 @@ Linux-PAM-dev
 Linux-PAM-dev32
 include(devpkg-acl)
 acl-dev32
-include(devpkg-apr)
-include(devpkg-apr-util)
 include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
@@ -34,7 +32,6 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-meson
 bzip2
-include(devpkg-bzip2)
 ca-certs
 clr-rpm-config
 coreutils
@@ -43,8 +40,6 @@ include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
 datefudge
-db
-db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -99,8 +94,6 @@ include(devpkg-gtk-doc)
 guile
 include(gzip)
 hostname
-httpd-dev
-httpd-extras
 include(intltool)
 intltool-dev
 include(devpkg-iptables)
@@ -111,7 +104,6 @@ keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
-include(devpkg-libX11)
 libabigail
 libaio-dev
 libc6-dev
@@ -178,7 +170,6 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nss-altfiles
-openjade-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -187,14 +178,11 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 include(patch)
 include(devpkg-pcre2)
-perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
-perl-BDB
 perl-Business-ISBN-Data
 perl-CGI
 perl-CPAN-Meta-Check
-perl-Canary-Stability
 perl-Carp-Assert
 perl-Class-Data-Inheritable
 perl-Class-Inspector
@@ -238,7 +226,6 @@ perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Which
 perl-Getopt-Long-Descriptive
-perl-Guard
 perl-HTML-Form-perl
 perl-HTML-Parser
 perl-HTML-Parser-dev
@@ -255,12 +242,10 @@ perl-HTTP-Message-dev
 perl-HTTP-Negotiate
 perl-HTTP-Negotiate-dev
 perl-HTTP-Server-Simple-perl
-perl-IO-AIO
 perl-IO-HTML
 perl-IO-HTML-dev
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
-perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
@@ -329,7 +314,6 @@ perl-WWW-RobotRules
 perl-XML-NamespaceSupport-dev
 perl-XML-Parser-dev
 perl-XString-perl
-perl-common-sense
 perl-dev
 perl-libwww-perl-dev
 perl-libwww-perl-perl
@@ -337,14 +321,11 @@ perl-namespace-autoclean
 perl-namespace-clean
 perl-perl
 pigz
-pip
 pkg-config
 pkg-config-dev
 polkit-dev
 include(devpkg-popt)
-include(devpkg-postgresql)
 include(procps-ng)
-procps-ng-bin
 python3
 python3-core
 python3-dev
@@ -353,8 +334,6 @@ readline-dev32
 ruby
 sed
 shadow
-sqlite-autoconf
-include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin
 include(devpkg-systemd)
@@ -363,10 +342,8 @@ systemd-extras
 systemd-lib
 tar
 tcl
-tcl-dev
 include(texinfo)
 thin-provisioning-tools
-tk-dev
 include(unzip)
 util-linux
 util-linux-bin

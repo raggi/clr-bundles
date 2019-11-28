@@ -953,7 +953,6 @@ perl-Algorithm-Diff
 perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
-perl-BDB
 perl-Business-ISBN-Data
 perl-CGI
 perl-CPAN-Meta-Check
@@ -998,7 +997,6 @@ perl-File-ShareDir-Install
 perl-File-Slurp
 perl-File-Which
 perl-Getopt-Long-Descriptive
-perl-Guard
 perl-HTML-Form-perl
 perl-HTML-Parser
 perl-HTML-Tagset
@@ -1065,7 +1063,6 @@ perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
 perl-Test-Pod
-perl-Test-Refcount
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple

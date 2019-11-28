@@ -49,7 +49,6 @@ apache-ant
 apache-maven
 appdirs
 include(devpkg-apr)
-include(devpkg-apr-util)
 asciidoc
 asn1crypto-python
 include(aspell)
@@ -143,7 +142,6 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 db
-db-dev
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -276,8 +274,6 @@ include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
 hostname
-httpd-dev
-httpd-extras
 hypothesis-python
 ibus
 ibus-dev
@@ -508,7 +504,6 @@ open-iscsi
 open-isns-dev
 include(openblas)
 opencl-headers-dev
-openjade-dev
 openjdk
 openjdk11
 openjdk11-dev
@@ -540,14 +535,11 @@ pcre2
 include(devpkg-pcre2)
 pecan
 perl
-perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
-perl-BDB
 perl-Business-ISBN-Data
 perl-CGI
 perl-CPAN-Meta-Check
-perl-Canary-Stability
 perl-Carp-Assert
 perl-Class-Data-Inheritable
 perl-Class-Inspector
@@ -585,7 +577,6 @@ perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Which
 perl-Getopt-Long-Descriptive
-perl-Guard
 perl-HTML-Form-perl
 perl-HTML-Parser
 perl-HTML-Tagset
@@ -596,12 +587,10 @@ perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-HTTP-Server-Simple-perl
-perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
 perl-IO-stringy
-perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
@@ -663,7 +652,6 @@ perl-WWW-Mechanize-perl
 perl-WWW-RobotRules
 perl-XML-Parser
 perl-XString-perl
-perl-common-sense
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean

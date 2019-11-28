@@ -18,7 +18,6 @@ include(Sphinx)
 include(devpkg-acl)
 acl-dev32
 include(devpkg-apr)
-include(devpkg-apr-util)
 asciidoc
 include(devpkg-attr)
 attr-dev32
@@ -62,7 +61,6 @@ include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
 db
-db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -135,8 +133,6 @@ include(devpkg-gtk3)
 guile
 include(gzip)
 hostname
-httpd-dev
-httpd-extras
 include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)
@@ -244,7 +240,6 @@ nghttp2-dev32
 nss-altfiles
 include(devpkg-nss)
 openconnect-dev
-openjade-dev
 openldap-dev
 opensm-dev
 include(openssl)
@@ -263,14 +258,11 @@ include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
 perl
-perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
-perl-BDB
 perl-Business-ISBN-Data
 perl-CGI
 perl-CPAN-Meta-Check
-perl-Canary-Stability
 perl-Carp-Assert
 perl-Class-Data-Inheritable
 perl-Class-Inspector
@@ -306,7 +298,6 @@ perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Which
 perl-Getopt-Long-Descriptive
-perl-Guard
 perl-HTML-Form-perl
 perl-HTML-Parser
 perl-HTML-Tagset
@@ -317,11 +308,9 @@ perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-HTTP-Server-Simple-perl
-perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
-perl-IPC-Run
 perl-Importer
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
@@ -383,7 +372,6 @@ perl-WWW-Mechanize-perl
 perl-WWW-RobotRules
 perl-XML-Parser
 perl-XString-perl
-perl-common-sense
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
@@ -397,7 +385,6 @@ pluggy-python
 ply
 polkit-dev
 include(devpkg-popt)
-include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 pycparser
