@@ -1,8 +1,7 @@
 # [TITLE]: yarn
 # [DESCRIPTION]: Fast, reliable, and secure dependency management.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
-include(nodejs-basic)
-yarn
+filesystem
