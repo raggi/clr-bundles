@@ -25,6 +25,7 @@ also-add(znc)
 
 WireGuard
 bind-utils
+bmon
 bridge-utils
 connect-proxy
 conntrack-tools
