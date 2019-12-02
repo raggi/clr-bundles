@@ -124,6 +124,7 @@ cmocka-dev
 colorama
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
+configparser
 contextlib2
 coreutils
 coverage

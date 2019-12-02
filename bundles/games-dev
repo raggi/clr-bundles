@@ -112,9 +112,9 @@ cmake
 cmocka-dev
 colorama
 include(devpkg-colord)
+configparser
 contextlib2
 coreutils
-coverage
 cracklib-dev
 include(cryptography)
 cryptography_vectors

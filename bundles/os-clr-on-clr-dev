@@ -173,6 +173,7 @@ include(devpkg-colord)
 commonmark
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
+configparser
 contextlib2
 coreutils
 coverage
@@ -234,7 +235,6 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-enchant)
-entrypoints
 execnet
 include(devpkg-exiv2)
 include(devpkg-expat)

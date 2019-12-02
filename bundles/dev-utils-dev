@@ -72,9 +72,9 @@ clr-rpm-config
 cmake
 colorama
 include(devpkg-compat-fuse-soname2)
+configparser
 contextlib2
 coreutils
-coverage
 include(cpio)
 cppcheck
 cppunit-dev
