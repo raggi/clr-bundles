@@ -1,0 +1,16 @@
+# [TITLE]: byobu
+# [DESCRIPTION]: Text based window manager and terminal multiplexer.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities
+# [MAINTAINER]: Leandro Dorileo <leandro.maciel.dorileo@intel.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(tmux)
+newt
+screen
+# end of custom additions
+
+# main package
+byobu
