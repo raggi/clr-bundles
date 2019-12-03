@@ -36,3 +36,4 @@ xsetroot
 include(xterm)
 xwd
 xwininfo
+wmctrl
