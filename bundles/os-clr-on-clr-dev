@@ -44,7 +44,6 @@ MarkupSafe-python3
 ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
-OpenSP-dev
 Pillow
 PyJWT
 PyQt5
@@ -950,13 +949,11 @@ pecan
 pep8
 perl
 perl-Algorithm-Diff
-perl-AnyEvent-perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
 perl-Business-ISBN-Data
 perl-CGI
 perl-CPAN-Meta-Check
-perl-Canary-Stability
 perl-Capture-Tiny
 perl-Carp-Assert
 perl-Class-Data-Inheritable
@@ -1007,7 +1004,6 @@ perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-HTTP-Server-Simple-perl
-perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
@@ -1082,7 +1078,6 @@ perl-WWW-Mechanize-perl
 perl-WWW-RobotRules
 perl-XML-Parser
 perl-XString-perl
-perl-common-sense
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean

@@ -222,6 +222,7 @@ gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
+gnome-desktop
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
