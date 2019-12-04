@@ -125,6 +125,7 @@ colorama
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 configparser
+confuse-dev
 contextlib2
 coreutils
 coverage
@@ -448,6 +449,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 logilab-common

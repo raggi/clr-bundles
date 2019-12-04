@@ -409,6 +409,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lxml
 include(devpkg-lz4)

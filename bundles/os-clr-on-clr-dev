@@ -173,6 +173,7 @@ commonmark
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 configparser
+confuse-dev
 contextlib2
 coreutils
 coverage
@@ -639,6 +640,7 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 logilab-common

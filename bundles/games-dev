@@ -241,6 +241,7 @@ graphviz-extras
 grep
 groff
 gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -445,6 +446,7 @@ include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 logilab-common
 lxml
