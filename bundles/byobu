@@ -10,6 +10,7 @@
 include(tmux)
 newt
 screen
+byobu-doc
 # end of custom additions
 
 # main package
