@@ -1,0 +1,14 @@
+# [TITLE]: maker-electronics
+# [DESCRIPTION]: Electronics design and programming tools for makers.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities, Other
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(python3-basic)
+include(qt-basic)
+include(Sphinx)
+include(maker-basic)
+
+# Design tools
+fritzing-app
