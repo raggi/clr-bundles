@@ -112,7 +112,6 @@ cmake
 cmocka-dev
 colorama
 include(devpkg-colord)
-configparser
 contextlib2
 coreutils
 cracklib-dev
