@@ -9,4 +9,5 @@ also-add(emacs)
 also-add(joe)
 also-add(vim)
 ctags
+ed
 nano
