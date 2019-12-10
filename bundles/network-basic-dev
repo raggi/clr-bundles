@@ -215,6 +215,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+lmdb-dev
 lxml
 include(devpkg-lz4)
 lz4-dev32

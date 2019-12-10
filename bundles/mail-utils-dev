@@ -179,6 +179,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+lmdb-dev
 include(devpkg-lua)
 lxml
 include(devpkg-lz4)
