@@ -67,6 +67,7 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 include(devpkg-atkmm)
+atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -619,6 +620,7 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 mod_perl-perl
+more-itertools-python
 mozjs60
 include(devpkg-mozjs60)
 mozjs60-lib

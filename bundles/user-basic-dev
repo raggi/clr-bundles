@@ -59,6 +59,7 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -469,6 +470,7 @@ mingw-gcc
 mock
 mod_perl-perl
 more-itertools
+more-itertools-python
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
@@ -672,6 +674,7 @@ pkg-config-dev
 pluggy
 pluggy-python
 ply
+include(plzip)
 include(polkit)
 polkit-dev
 include(devpkg-popt)
