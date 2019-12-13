@@ -541,7 +541,7 @@ pecan
 perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
-perl-Business-ISBN-Data
+perl-Business-ISBN-Data-perl
 perl-CGI
 perl-CPAN-Meta-Check
 perl-Carp-Assert
