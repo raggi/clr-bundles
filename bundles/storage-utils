@@ -46,7 +46,7 @@ samba-data
 simg-tools
 include(smartmontools)
 squashfs-tools
-sshfs
+also-add(sshfs)
 tdb-lib
 thin-provisioning-tools
 usermode

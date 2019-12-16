@@ -402,3 +402,4 @@ gramps # Gramps is a genealogy program for Windows, Linux, Apple MacOS and other
 pspp # a program for statistical analysis of sampled data
 phoronix-test-suite # Run only the phoronix-test-suite
 byobu # Text based window manager and terminal multiplexer.
+sshfs # FUSE client based on the SSH File Transfer Protocol
