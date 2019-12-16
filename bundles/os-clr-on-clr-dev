@@ -97,6 +97,7 @@ include(devpkg-atk)
 atk-dev32
 atomicwrites
 atomicwrites-python
+include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
