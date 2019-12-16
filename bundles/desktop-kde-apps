@@ -46,7 +46,6 @@ also-add(kbackup)
 also-add(kblog)
 also-add(kcachegrind)
 also-add(kcalc)
-kcalcore
 kcalutils
 also-add(kcharselect)
 also-add(kcolorchooser)

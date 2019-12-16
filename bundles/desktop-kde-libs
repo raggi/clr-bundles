@@ -15,6 +15,7 @@ baloo-widgets-lib
 exiv2-lib
 gpgme-lib
 kauth-lib
+kcalendarcore-lib
 kglobalaccel-lib
 kcmutils-lib
 kdbusaddons-lib
