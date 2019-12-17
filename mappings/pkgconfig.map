@@ -391,12 +391,8 @@ pkgconfig(libnl-idiag-3.0)	devpkg-libnl
 pkgconfig(libnl-xfrm-3.0)	devpkg-libnl
 pkgconfig(libnm)	devpkg-NetworkManager
 pkgconfig(libnma)	devpkg-network-manager-applet
-pkgconfig(libnm-glib)	devpkg-NetworkManager
-pkgconfig(libnm-util)	devpkg-NetworkManager
 pkgconfig(NetworkManager)	devpkg-NetworkManager
 pkgconfig(dbus-glib-1)	devpkg-dbus-glib
-pkgconfig(libnm-glib-vpn)	devpkg-NetworkManager
-pkgconfig(libnm-gtk)	devpkg-network-manager-applet
 pkgconfig(libnotify)	devpkg-libnotify
 pkgconfig(libntfs-3g)	devpkg-ntfs-3g
 pkgconfig(liboath)	devpkg-oath-toolkit
