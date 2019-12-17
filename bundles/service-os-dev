@@ -206,6 +206,7 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 nss-altfiles
 nss-bin
+include(devpkg-numactl)
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32

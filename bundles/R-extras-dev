@@ -1130,7 +1130,7 @@ perl-Class-Unload
 perl-Clone-PP
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
-perl-Cpanel-JSON-XS
+perl-Cpanel-JSON-XS-perl
 perl-Crypt-SSLeay
 perl-Data-OptList
 perl-DateTime

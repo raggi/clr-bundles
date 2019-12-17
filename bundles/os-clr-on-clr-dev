@@ -969,7 +969,7 @@ perl-Class-Unload
 perl-Clone-PP
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
-perl-Cpanel-JSON-XS
+perl-Cpanel-JSON-XS-perl
 perl-Crypt-SSLeay
 perl-Data-OptList
 perl-DateTime
@@ -1039,6 +1039,7 @@ perl-Params-Validate
 perl-Params-ValidationCompiler
 perl-Path-Class
 perl-Path-Tiny
+perl-PerlIO-gzip
 perl-PerlIO-utf8_strict
 perl-Role-Tiny
 perl-Scope-Guard
@@ -1242,6 +1243,7 @@ snappy-dev
 snowballstemmer
 solid-dev
 sonnet-dev
+sortedcontainers
 source-highlight
 include(devpkg-speex)
 speexdsp-dev

@@ -544,7 +544,7 @@ perl-Class-Unload
 perl-Clone-PP
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
-perl-Cpanel-JSON-XS
+perl-Cpanel-JSON-XS-perl
 perl-Crypt-SSLeay
 perl-Data-OptList
 perl-DateTime
@@ -764,6 +764,7 @@ include(devpkg-vala)
 include(valgrind)
 valgrind-dev
 virtualenv
+vpnc
 wavpack-dev
 include(devpkg-wayland)
 wayland-dev32

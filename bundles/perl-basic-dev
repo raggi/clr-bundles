@@ -195,7 +195,7 @@ perl-Config-General-dev
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Config-Tiny-dev
-perl-Cpanel-JSON-XS
+perl-Cpanel-JSON-XS-perl
 perl-Crypt-SSLeay
 perl-Crypt-SSLeay-dev
 perl-DBI-dev
