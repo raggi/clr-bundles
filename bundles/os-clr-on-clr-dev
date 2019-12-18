@@ -1015,6 +1015,7 @@ perl-IO-stringy
 perl-IPC-Run
 perl-IPC-Run3
 perl-Importer
+perl-JSON
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https

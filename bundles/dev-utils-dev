@@ -390,6 +390,7 @@ perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
 perl-Importer
+perl-JSON
 perl-JSON-MaybeXS
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
