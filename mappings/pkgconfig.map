@@ -391,8 +391,6 @@ pkgconfig(libnl-idiag-3.0)	devpkg-libnl
 pkgconfig(libnl-xfrm-3.0)	devpkg-libnl
 pkgconfig(libnm)	devpkg-NetworkManager
 pkgconfig(libnma)	devpkg-network-manager-applet
-pkgconfig(NetworkManager)	devpkg-NetworkManager
-pkgconfig(dbus-glib-1)	devpkg-dbus-glib
 pkgconfig(libnotify)	devpkg-libnotify
 pkgconfig(libntfs-3g)	devpkg-ntfs-3g
 pkgconfig(liboath)	devpkg-oath-toolkit
@@ -530,6 +528,7 @@ pkgconfig(Qt5UiTools)	devpkg-qttools
 pkgconfig(Qt5WebEngine)	devpkg-qtwebengine
 pkgconfig(Qt5Qml)	devpkg-qtdeclarative
 pkgconfig(Qt5Quick)	devpkg-qtdeclarative
+pkgconfig(Qt5QmlModels)	devpkg-qtdeclarative
 pkgconfig(Qt5WebEngineCore)	devpkg-qtwebengine
 pkgconfig(Qt5Positioning)	devpkg-qtlocation
 pkgconfig(Qt5WebChannel)	devpkg-qtwebchannel
