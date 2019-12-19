@@ -114,6 +114,7 @@ pkgconfig(webkit2gtk-4.0)	devpkg-webkitgtk
 pkgconfig(javascriptcoregtk-4.0)	devpkg-webkitgtk
 pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
 pkgconfig(gsettings-desktop-schemas)	devpkg-gsettings-desktop-schemas
+pkgconfig(libsystemd)	devpkg-systemd
 pkgconfig(xkeyboard-config)	devpkg-xkeyboard-config
 pkgconfig(iso-codes)	devpkg-iso-codes
 pkgconfig(libseccomp)	devpkg-libseccomp
@@ -456,7 +457,6 @@ pkgconfig(libssh2)	devpkg-libssh2
 pkgconfig(libstartup-notification-1.0)	devpkg-startup-notification
 pkgconfig(libstoragemgmt)	devpkg-libstoragemgmt
 pkgconfig(libsubunit)	devpkg-subunit
-pkgconfig(libsystemd)	devpkg-systemd
 pkgconfig(libtcmalloc)	devpkg-gperftools
 pkgconfig(libtcmalloc_debug)	devpkg-gperftools
 pkgconfig(libtcmalloc_minimal)	devpkg-gperftools
