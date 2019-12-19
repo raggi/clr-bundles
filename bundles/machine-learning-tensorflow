@@ -16,6 +16,7 @@ Keras_Preprocessing
 horovod
 protobuf-python
 termcolor
+tensorflow-addons
 tensorflow-estimator
 tensorflow-probability
 absl-py
