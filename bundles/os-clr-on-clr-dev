@@ -1204,6 +1204,7 @@ readline-dev32
 recommonmark
 requests
 requests-kerberos
+requests-mock
 requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
