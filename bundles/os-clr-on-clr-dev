@@ -1071,7 +1071,7 @@ perl-Test-Simple
 perl-Test-Simple-perl
 perl-Test-Taint
 perl-Test-Warn
-perl-Test-Warnings
+perl-Test-Warnings-perl
 perl-Test2-Suite
 perl-Text-Diff
 perl-TimeDate
