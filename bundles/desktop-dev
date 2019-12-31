@@ -676,6 +676,7 @@ openjade-dev
 openjdk11
 openjdk11-dev
 openldap-dev
+include(devpkg-openmpi)
 openssh
 include(openssl)
 include(devpkg-openssl)

@@ -493,6 +493,7 @@ include(devpkg-nss)
 octave-dev
 openconnect-dev
 openldap-dev
+include(devpkg-openmpi)
 openssh
 include(openssl)
 include(devpkg-openssl)

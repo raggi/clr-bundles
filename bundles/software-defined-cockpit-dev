@@ -399,6 +399,8 @@ openal-soft-dev32
 include(devpkg-opencv)
 openexr-dev
 openldap-dev
+include(devpkg-openmpi)
+openssh
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
