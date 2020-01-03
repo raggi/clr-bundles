@@ -946,8 +946,6 @@ libgcrypt-dev32
 include(devpkg-libgd)
 libgeotiff-dev
 libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 libgit2-dev
 include(devpkg-libgpg-error)
 libgpg-error-dev32

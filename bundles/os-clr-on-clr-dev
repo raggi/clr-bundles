@@ -532,8 +532,6 @@ libgcrypt-dev32
 include(devpkg-libgd)
 libgeotiff-dev
 libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
@@ -589,7 +587,6 @@ librsvg
 include(devpkg-librsvg)
 librsvg-dev32
 include(devpkg-libsamplerate)
-libseccomp
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)

@@ -295,8 +295,6 @@ libffi-dev32
 include(devpkg-libgcrypt)
 libgcrypt-dev32
 libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
