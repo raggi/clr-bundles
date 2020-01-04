@@ -8,7 +8,7 @@ include(mail-utils)
 include(perl-basic)
 include(python3-basic)
 asciinema
-include(irssi)
+also-add(irssi)
 khal
 taskwarrior
-include(weechat)
+also-add(weechat)
