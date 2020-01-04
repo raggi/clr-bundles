@@ -1,0 +1,17 @@
+# [TITLE]: stacer
+# [DESCRIPTION]: Ubuntu System Optimizer
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+stacer
