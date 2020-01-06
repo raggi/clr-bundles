@@ -151,6 +151,7 @@ cached-property
 include(devpkg-cairo)
 cairo-dev32
 include(ccache)
+ccid
 ceph-dev
 certifi
 cffi
