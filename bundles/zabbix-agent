@@ -1,0 +1,9 @@
+# [TITLE]: zabbix-agent
+# [DESCRIPTION]: Network and application monitoring tool - agent only.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+
+zabbix-extras-client
