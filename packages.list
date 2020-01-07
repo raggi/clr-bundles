@@ -405,3 +405,4 @@ byobu # Text based window manager and terminal multiplexer.
 sshfs # FUSE client based on the SSH File Transfer Protocol
 stacer # Ubuntu System Optimizer
 zabbix # Network and application monitoring tool.
+earlyoom # Utility for pre-oomkiller process control
