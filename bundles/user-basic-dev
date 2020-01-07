@@ -374,6 +374,7 @@ include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
 libgcrypt-dev32
+include(devpkg-libgd)
 libgfortran-avx
 include(devpkg-libgpg-error)
 libgpg-error-dev32
@@ -435,6 +436,7 @@ include(devpkg-libusb)
 include(devpkg-libuser)
 include(devpkg-libva)
 libvdpau-dev
+include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(libxml2)
@@ -446,7 +448,6 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 logilab-common
@@ -571,6 +572,7 @@ perl-Exporter-Tiny
 perl-ExtUtils-Config
 perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
+perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
 perl-File-HomeDir-perl
 perl-File-Listing
@@ -635,6 +637,7 @@ perl-Test-Deep
 perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File-ShareDir-Dist
+perl-Test-Fork-perl
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
@@ -701,8 +704,6 @@ pytest
 pytest-python
 pytest-runner
 pytest-timeout
-python-core
-python-dev
 python-mock
 python-mock-python
 python3

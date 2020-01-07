@@ -592,7 +592,6 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -869,8 +868,6 @@ pygobject-python
 pyparsing
 pytest
 pytest-python
-python-core
-python-dev
 python-mock
 python-mock-python
 python-pocketlint

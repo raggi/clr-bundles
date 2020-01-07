@@ -6,7 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(os-core-dev)
-include(perl-basic-dev)
 include(sysadmin-basic)
 CUnit-dev
 Cython

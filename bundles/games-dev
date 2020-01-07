@@ -444,7 +444,6 @@ include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 logilab-common
@@ -685,7 +684,6 @@ pytest
 pytest-python
 pytest-runner
 pytest-timeout
-python-dev
 python-mock
 python-mock-python
 python3

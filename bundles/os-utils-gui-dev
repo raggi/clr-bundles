@@ -446,7 +446,6 @@ include(devpkg-libxslt)
 links
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -661,7 +660,6 @@ pyaml
 pycparser
 include(pygobject)
 pytest
-python-dev
 python-pocketlint
 python-polib
 python3

@@ -639,7 +639,6 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 logilab-common
@@ -988,6 +987,7 @@ perl-Exporter-Tiny
 perl-ExtUtils-Config
 perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
+perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
 perl-File-HomeDir-perl
 perl-File-Listing
@@ -1059,6 +1059,7 @@ perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File
 perl-Test-File-ShareDir-Dist
+perl-Test-Fork-perl
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
@@ -1148,9 +1149,7 @@ pytest-python
 pytest-runner
 pytest-timeout
 pytest-xdist
-python-core
 python-dateutil
-python-dev
 python-future
 python-memcached
 python-mimeparse

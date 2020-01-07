@@ -253,7 +253,6 @@ include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 include(pygobject)
-python-dev
 python3
 python3-core
 python3-dev

@@ -62,8 +62,10 @@ buildreq-meson
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 include(devpkg-cairo)
+cairo-dev32
 certifi
 cffi
 cffi-python
@@ -115,8 +117,12 @@ filelock
 include(findutils)
 include(flex)
 flex-dev
+fontconfig-data
 include(devpkg-fontconfig)
+fontconfig-dev32
+include(devpkg-freeglut)
 include(devpkg-freetype)
+freetype-dev32
 gawk
 gc-dev
 gcc
@@ -127,6 +133,7 @@ gcc-libstdc++32
 gcc7-dev
 gcc8-dev
 gdal-dev
+include(gdb)
 gdb-dev
 gdbm-dev
 gettext
@@ -154,9 +161,12 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(devpkg-gnutls)
 go
+gobject-introspection
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
+include(devpkg-graphite)
+graphite-dev32
 include(graphviz)
 grep
 groff
@@ -167,6 +177,8 @@ include(devpkg-gtk-doc)
 guile
 include(devpkg-guile)
 include(gzip)
+include(devpkg-harfbuzz)
+harfbuzz-dev32
 help2man
 hostname
 hypothesis-python
@@ -186,6 +198,7 @@ iptables-dev32
 iso8601
 isort
 include(devpkg-json-c)
+json-c-dev32
 jsoncpp-dev
 include(kbd)
 keyutils-dev
@@ -203,6 +216,7 @@ include(devpkg-libXmu)
 include(devpkg-libXpm)
 include(devpkg-libXres)
 include(devpkg-libXt)
+libXt-dev32
 include(devpkg-libXtst)
 include(devpkg-libXv)
 include(devpkg-libXxf86misc)
@@ -226,6 +240,7 @@ include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
 libgcrypt-dev32
+include(devpkg-libgd)
 libgfortran-avx
 include(devpkg-libgpg-error)
 libgpg-error-dev32
@@ -236,6 +251,7 @@ include(devpkg-libidn2)
 libidn2-dev32
 include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
+libjpeg-turbo-dev32
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
@@ -249,6 +265,7 @@ include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpipeline)
 include(devpkg-libpng)
+libpng-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
@@ -264,6 +281,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
+include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 libxml2-bin
@@ -286,6 +304,7 @@ makedepend
 man-db
 mccabe
 include(devpkg-mesa)
+mesa-dev32
 meson
 include(devpkg-metrics-discovery)
 mingw-gcc
@@ -296,6 +315,7 @@ more-itertools-python
 mpc-dev
 mpfr-dev
 msmtp
+include(nasm)
 nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
@@ -367,6 +387,7 @@ perl-Exporter-Tiny
 perl-ExtUtils-Config
 perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
+perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
 perl-File-HomeDir-perl
 perl-File-Listing
@@ -430,6 +451,7 @@ perl-Test-Deep
 perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File-ShareDir-Dist
+perl-Test-Fork-perl
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
@@ -561,7 +583,13 @@ include(wget)
 include(which)
 wrapt
 xauth
+xcb-proto
+include(devpkg-xcb-proto)
 xmlto
+include(devpkg-xorgproto)
+xorgproto-dev32
+include(devpkg-xtrans)
+xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

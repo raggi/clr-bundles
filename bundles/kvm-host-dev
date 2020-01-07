@@ -358,7 +358,6 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -452,8 +451,6 @@ py
 pycodestyle
 pycparser
 pyparsing
-python-core
-python-dev
 python3
 python3-core
 python3-dev
