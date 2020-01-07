@@ -101,3 +101,4 @@ time
 also-add(unzip)
 also-add(yasm)
 also-add(devpkg-zlib)
+also-add(devpkg-util-linux)
