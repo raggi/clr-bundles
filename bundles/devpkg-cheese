@@ -9,7 +9,12 @@ include(devpkg-base)
 include(devpkg-clutter)
 include(devpkg-clutter-gst)
 include(devpkg-gdk-pixbuf)
+include(libX11client)
 include(devpkg-glib)
+include(libglib)
+include(devpkg-gst-plugins-bad)
+include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
+include(devpkg-libX11)
 
 cheese-dev
