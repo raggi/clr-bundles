@@ -1,4 +1,3 @@
-
 alsa
 apr-1
 apr-util-1
@@ -9,11 +8,14 @@ blkid
 bluez
 cairo
 capstone
+cheese
 clutter-1.0
+clutter-gst-3.0
 cogl-1.0
 colord
 cpprestsdk
 dbus-1
+dbus-glib-1
 devmapper
 dri3proto
 eigen3
@@ -208,10 +210,12 @@ libebackend-1.2
 libebook-1.2
 libebook-contacts-1.2
 libecal-1.2
+libecal-2.0
 libecpg
 libecpg_compat
 libedata-book-1.2
 libedata-cal-1.2
+libedata-cal-2.0
 libedataserver-1.2
 libedataserverui-1.2
 libelf
@@ -227,6 +231,7 @@ libexslt
 libffi
 libfontembed
 libgcab-1.0
+libgcrypt
 libgdata
 libgeoclue-2.0
 libgfbgraph-0.2
@@ -274,6 +279,7 @@ libmpg123
 libmspack
 libmtp
 libmutter-3
+libmutter-5
 libmypaint
 libnautilus-extension
 libndctl
@@ -409,6 +415,7 @@ libva
 libva-drm
 libva-glx
 libvala-0.42
+libvala-0.46
 libva-wayland
 libva-x11
 libvirt
