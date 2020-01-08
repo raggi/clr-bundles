@@ -482,6 +482,7 @@ pkgconfig(liburcu-signal)	devpkg-userspace-rcu
 pkgconfig(libusbredirhost)	devpkg-usbredir
 pkgconfig(libusbredirparser-0.5)	devpkg-usbredir
 pkgconfig(libuser)	devpkg-libuser
+pkgconfig(libuv)	devpkg-libuv
 pkgconfig(libv4l1)	devpkg-v4l-utils
 pkgconfig(libv4l2)	devpkg-v4l-utils
 pkgconfig(libv4lconvert)	devpkg-v4l-utils
