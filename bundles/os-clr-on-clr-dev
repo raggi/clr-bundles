@@ -615,7 +615,7 @@ libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libuser)
 libuv
-libuv-dev
+include(devpkg-libuv)
 include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
