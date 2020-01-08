@@ -722,7 +722,7 @@ include(devpkg-rest)
 rest-dev32
 rpcbind
 rpm
-rpm-bin
+rpm-extras
 ruby
 sassc
 scikit-learn

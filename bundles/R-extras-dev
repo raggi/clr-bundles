@@ -1244,6 +1244,7 @@ procps-ng-bin
 proj
 proj-dev
 protobuf-dev
+psmisc
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py

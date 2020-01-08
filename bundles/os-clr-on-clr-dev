@@ -1208,8 +1208,8 @@ include(devpkg-rest)
 rest-dev32
 rpcbind
 rpm
-rpm-bin
 rpm-dev
+rpm-extras
 rtkit
 ruby
 rust-std32

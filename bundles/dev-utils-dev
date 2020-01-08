@@ -518,7 +518,7 @@ include(devpkg-readline)
 readline-dev32
 requests
 rpm
-rpm-bin
+rpm-extras
 ruby
 scdoc-dev
 sed
