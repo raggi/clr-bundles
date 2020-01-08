@@ -406,3 +406,4 @@ sshfs # FUSE client based on the SSH File Transfer Protocol
 stacer # Ubuntu System Optimizer
 zabbix # Network and application monitoring tool.
 earlyoom # Utility for pre-oomkiller process control
+swupd-client-pre-release # Pre-release binary for the Clear Linux OS for IA Updater.
