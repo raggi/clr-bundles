@@ -400,6 +400,7 @@ libusb-1.0
 libusbredirhost
 libusbredirparser-0.5
 libuser
+libuv
 libv4l1
 libv4l2
 libv4l2rds
