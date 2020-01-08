@@ -6,7 +6,7 @@
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(python3-basic)
 createrepo_c
-include(dnf)
+also-add(dnf)
 mock
 rpm
 rpm-extras
