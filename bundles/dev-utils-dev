@@ -46,6 +46,7 @@ bats
 include(bc)
 include(binutils)
 binutils-dev
+binutils-staticdev
 include(bison)
 bison-dev
 boost

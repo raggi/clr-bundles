@@ -257,6 +257,7 @@ guile
 include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
+help2man
 hostname
 hypothesis-python
 ibus

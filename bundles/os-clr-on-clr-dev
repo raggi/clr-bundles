@@ -121,6 +121,7 @@ bcrypt
 bdftopcf
 include(binutils)
 binutils-dev
+binutils-staticdev
 include(bison)
 bison-dev
 include(devpkg-bluez)

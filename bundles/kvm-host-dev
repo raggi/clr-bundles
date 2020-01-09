@@ -214,6 +214,7 @@ guile
 include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
+help2man
 hostname
 ibus
 ibus-dev
