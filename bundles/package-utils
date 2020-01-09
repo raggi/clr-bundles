@@ -5,6 +5,7 @@
 # [TAGS]: Developer Tools, Python, Perl
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(python3-basic)
+include(libglib)
 createrepo_c
 also-add(dnf)
 mock
